@@ -1,0 +1,5 @@
+- butter
+- eggs
+- cheese
+- almonds
+- bread
